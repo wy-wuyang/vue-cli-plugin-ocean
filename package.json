@@ -1,0 +1,15 @@
+{
+  "name": "vue-cli-plugin-ocean",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to add Ocean",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wy-wuyang/vue-cli-plugin-ocean.git"
+  },
+  "author": "wuyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wy-wuyang/vue-cli-plugin-ocean/issues"
+  },
+  "homepage": "https://github.com/wy-wuyang/vue-cli-plugin-ocean#readme"
+}
